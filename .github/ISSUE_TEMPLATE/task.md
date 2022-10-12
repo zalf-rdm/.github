@@ -2,7 +2,7 @@
 name: new task | neue Aufgabe
 about: Create an issue of a todo task, e.g. migrate Database. | Anlegen eines Todos z.B. Migration der Datenbank.
 title: 'new task name | Name der neuen Aufgabe'
-labels: 'feature'
+labels: 'task'
 assignees: ''
 ---
 
