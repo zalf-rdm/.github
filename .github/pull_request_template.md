@@ -12,6 +12,7 @@ Closes #
 
 ## ✅ Checks
 <!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
+- [ ] this PR requires changes in WP2libs
 - [ ] this PR requires Database migration
 - [ ] All the tests have passed
 
